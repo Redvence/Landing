@@ -130,7 +130,7 @@ background-color:black;
 }
 .text6{
   position:relative;
-  margin: 515px auto auto;
+  margin: 465px auto auto;
   text-align: center;
   font-size: 48px;
 }
@@ -146,8 +146,36 @@ background-color:black;
 }
 .object7{
   position: absolute;
-  width: 1917.1px;
+  width: 1390.67px;
   height: 463.9px;
   left: 119.66px;
   top: 4292.51px;
+}
+.object8{
+  position: absolute;
+  width: 1738.23px;
+  height: 605.18px;
+  left: -134.31px;
+  top: 6018.37px;
+}
+.object9{
+  position: absolute;
+  width: 1537px;
+  height: 711.79px;
+  left: -25.43px;
+  top: 4762.28px;
+}
+.object10{
+  position: absolute;
+  width: 680.77px;
+  height: 469.08px;
+  left: 79.95px;
+  top: 3447.25px;
+}
+.object11{
+  position: absolute;
+  width: 663.52px;
+  height: 457.27px;
+  left: 680.38px;
+  top: 3647.36px;
 }
