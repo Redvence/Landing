@@ -12,6 +12,7 @@ body {
   width: 1440px;
   margin: 10 auto;
   background: #ECE9E7;
+  display: block;
   height: 8739px;
   position: relative;
   font-family: Anglecia Pro Display;
@@ -26,10 +27,12 @@ body {
   font-size: 18px;
   }
 .name {
+  position: relative
   font-size: 110px;
   text-align: center;
   font-style: normal;
-  margin: 30 auto;
+
+  margin: 100 auto;
 }
 .object1{
   position: absolute;
