@@ -26,7 +26,6 @@ background-color:black;
   margin: 0 auto;
   background: #ECE9E7;
   display: block;
-  height: 8739px;
   position: relative;
   font-family: Anglecia Pro Display;
   overflow-y: hidden;
@@ -277,4 +276,7 @@ background-color:black;
   padding: 104;
   font-size: 24px;
   line-height: 30px;
+}
+.footertxt{
+  margin: -63 auto;
 }
