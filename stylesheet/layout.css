@@ -4,6 +4,8 @@
   src: url("/fonts/AngleciaProDisplayBold") format("otf");
   src: url("/fonts/AngleciaProDisplayItalic") format("otf");
 }
+html{
+}
 p{
   line-height: normal;
 }
@@ -19,6 +21,7 @@ body {
 background-color:black;
 }
 .main{
+  background-color:black;
   width: 1440px;
   margin: 0 auto;
   background: #ECE9E7;
@@ -26,6 +29,8 @@ background-color:black;
   height: 8739px;
   position: relative;
   font-family: Anglecia Pro Display;
+  overflow-y: hidden;
+  overflow-x:hidden;
 }
 .menupictures{
   position: absolute;
@@ -159,11 +164,8 @@ background-color:black;
   top: 6018.37px;
 }
 .object9{
-  position: absolute;
-  width: 1537px;
-  height: 711.79px;
-  left: -25.43px;
-  top: 4762.28px;
+  position: relative ;
+  margin: -50 auto auto -10;
 }
 .object10{
   position: absolute;
@@ -178,4 +180,101 @@ background-color:black;
   height: 457.27px;
   left: 680.38px;
   top: 3647.36px;
+}
+.object12{
+  position: absolute;
+  width: 1782.43px;
+  height: 383.58px;
+  left: -160.81px;
+  top: 5494.1px;
+}
+.arch{
+  font-size: 24px;
+  line-height: 30px;
+  margin: 355 auto auto;
+}
+.a1{
+  margin: auto auto auto 193;
+}
+.a2{
+  margin: 63 auto auto 1156;
+}
+.a3{
+  margin: -5 auto auto 578;
+}
+.a4{
+  margin: 325 auto auto 1060;
+}
+.a5{
+  margin: 10 auto auto 96;
+}
+.nacherttxt{
+  position: relative;
+  font-size: 40;
+  margin: 0 216 auto 300;
+}
+.text9{
+  font-size: 48px;
+  line-height: 60px;
+  text-align: center;
+  margin: 415 auto auto;
+}
+.text10{
+  position: absolute;
+  width: 538.66px;
+  height: 74px;
+  left: 226.9px;
+  top: 6564.87px;
+  font-size: 24px;
+  line-height: 30px;
+  transform: rotate(14.59deg);
+}
+.object13{
+  position: absolute;
+  width: 1094.71px;
+  height: 1047.11px;
+  left: -253.56px;
+  top: 6408.4px;
+}
+.object14{
+  position: absolute;
+  width: 1051.82px;
+  height: 1086.82px;
+  left: 967.52px;
+  top: 6583.04px;
+}
+.text11{
+  font-size: 24;
+  margin: 1115 auto auto 753;
+}
+.object15{
+  position: absolute;
+  width: 1376.87px;
+  height: 825.87px;
+  left: 38.66px;
+  top: 7512.43px;
+  z-index: 0;
+}
+.journals{
+  margin: 180 auto auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 50;
+  font-size: 18px;
+  line-height: 22px;
+  z-index: 2;
+}
+.caption{
+  font-size: 18px;
+  line-height: 22px;
+}
+.footer{
+  background-color: black;
+  color: white;
+  margin: 280 auto auto;
+  padding: 104;
+  font-size: 24px;
+  line-height: 30px;
 }
