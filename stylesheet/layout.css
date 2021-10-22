@@ -218,7 +218,7 @@ background-color:black;
 .nacherttxt{
   position: relative;
   font-size: 40;
-  margin: 0 216 auto 300;
+  margin: 0 auto auto 250;
 }
 .text9{
   font-size: 48px;
@@ -228,12 +228,13 @@ background-color:black;
 }
 .text10{
   position: absolute;
-  width: 538.66px;
+  width: 530px;
   height: 74px;
-  left: 226.9px;
-  top: 6564.87px;
+  left: 200px;
+  top: 6610px;
   font-size: 24px;
   line-height: 30px;
+
   transform: rotate(14.59deg);
 }
 .object13{
@@ -282,4 +283,25 @@ background-color:black;
 }
 .logo{
   margin: auto auto auto 850 ;
+}
+.n1{
+  font-weight:250;
+}
+.n2{
+  font-weight:300;
+}
+.n3{
+  font-weight:normal;
+}
+.n4{
+  font-weight:500;
+}
+.n5{
+  font-weight:600;
+}
+.n6{
+  font-weight:bold;
+}
+.n7{
+  font-weight:900;
 }
