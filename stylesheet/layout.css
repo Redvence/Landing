@@ -1,8 +1,8 @@
 @font-face {
   font-family: "Anglecia Pro Display";
-  src: url("/fonts/AngleciaProDisplayRegular") format("otf");
-  src: url("/fonts/AngleciaProDisplayBold") format("otf");
-  src: url("/fonts/AngleciaProDisplayItalic") format("otf");
+  src: url("/fonts/AngleciaProDisplayRegular.otf") format("otf");
+  src: url("/fonts/AngleciaProDisplayBold.otf") format("otf");
+  src: url("/fonts/AngleciaProDisplayItalic.otf") format("otf");
 }
 html{
 }
@@ -23,6 +23,7 @@ background-color:black;
 .main{
   background-color:black;
   width: 1440px;
+  height: 8739px;
   margin: 0 auto;
   background: #ECE9E7;
   display: block;
@@ -30,6 +31,41 @@ background-color:black;
   font-family: Anglecia Pro Display;
   overflow-y: hidden;
   overflow-x: hidden;
+}
+.m1{
+  position: absolute;
+  width: 102px;
+  height: 23px;
+  left: 289px;
+  top: 43px;
+}
+.m2{
+  position: absolute;
+  width: 64px;
+  height: 23px;
+  left: 482px;
+  top: 43px;
+}
+.m3{
+  position: absolute;
+  width: 117px;
+  height: 23px;
+  left: 674px;
+  top: 43px;
+}
+.m4{
+  position: absolute;
+  width: 107px;
+  height: 23px;
+  left: 867px;
+  top: 43px;
+}
+.m5{
+  position: absolute;
+  width: 113px;
+  height: 23px;
+  left: 1060px;
+  top: 43.72px;
 }
 .menupictures{
   position: absolute;
@@ -67,7 +103,11 @@ background-color:black;
   font-style: normal;
   font-weight: 300;
   font-size: 48px;
-  margin: auto auto auto 191.5;;
+  position: absolute;
+  width: 510px;
+  height: 59px;
+  left: 192px;
+  top: 389.89px;
 }
 .object15{
   position: absolute;
@@ -86,7 +126,7 @@ background-color:black;
 }
 .text1{
   position: relative;
-  margin: 191.5px auto auto 191px;
+  margin: 250 auto auto 191px;
   font-size: 24px;
   line-height: 30px;
 }
@@ -130,7 +170,7 @@ background-color:black;
   position: absolute;
   width: 1721px;
   height: 1974px;
-  left: -158px;
+  left: -130px;
   top: 2268px;
 }
 .object6{
@@ -221,10 +261,14 @@ background-color:black;
   margin: 0 auto auto 250;
 }
 .text9{
+  position: absolute;
   font-size: 48px;
   line-height: 60px;
   text-align: center;
-  margin: 415 auto auto;
+  width: 306px;
+  height: 74px;
+  left: 577px;
+  top: 6237px;
 }
 .text10{
   position: absolute;
@@ -253,7 +297,7 @@ background-color:black;
 }
 .text11{
   font-size: 24;
-  margin: 1115 auto auto 753;
+  margin: 1500 auto auto 753;
 }
 .journals{
   margin: 100 auto auto;
@@ -264,7 +308,6 @@ background-color:black;
   padding: 50;
   font-size: 18px;
   line-height: 22px;
-  z-index: 2;
 }
 .caption{
   font-size: 18px;
@@ -273,7 +316,7 @@ background-color:black;
 .footer{
   background-color: black;
   color: white;
-  margin: 280 auto auto;
+  margin: 900 auto auto;
   padding: 104;
   font-size: 24px;
   line-height: 30px;
@@ -282,7 +325,7 @@ background-color:black;
   margin: -63 auto;
 }
 .logo{
-  margin: auto auto auto 850 ;
+  margin: -50 auto auto 850;
 }
 .n1{
   font-weight:250;
@@ -304,4 +347,28 @@ background-color:black;
 }
 .n7{
   font-weight:900;
+}
+.j1{
+  position: absolute;
+  width: 363px;
+  height: 477px;
+  left: 79px;
+  top: 7731px;
+  z-index:2;
+}
+.j2{
+  position: absolute;
+  width: 368px;
+  height: 477px;
+  left: 532px;
+  top: 7731px;
+  z-index:2;
+}
+.j3{
+  position: absolute;
+  width: 354px;
+  height: 477px;
+  left: 991px;
+  top: 7731px;
+  z-index:2;
 }
