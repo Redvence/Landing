@@ -29,14 +29,14 @@ background-color:black;
   position: relative;
   font-family: Anglecia Pro Display;
   overflow-y: hidden;
-  overflow-x:hidden;
+  overflow-x: hidden;
 }
 .menupictures{
   position: absolute;
-  width: 827.5px;
-  height: 55.16px;
+  width: 827px;
+  height: 55px;
   left: 289px;
-  top: 27.64px;
+  top: 27px;
 }
 .menutext {
   display: flex;
@@ -51,10 +51,10 @@ background-color:black;
   }
 .object2{
   position: absolute;
-  width: 1115.97px;
-  height: 462.01px;
-  left: -31.39px;
-  top: 146.67px;
+  width: 1115px;
+  height: 462px;
+  left: -31px;
+  top: 146px;
 }
 .name {
   position: relative;
@@ -63,18 +63,26 @@ background-color:black;
   text-align: center;
   margin: 141px auto auto;
 }
-.object1{
-  position: absolute;
-  width: 1682.21px;
-  height: 1372.66px;
-  left: -145.04px;
-  top: 332.08px;
-}
 .text4{
   font-style: normal;
   font-weight: 300;
   font-size: 48px;
   margin: auto auto auto 191.5;;
+}
+.object15{
+  position: absolute;
+  width: 1376px;
+  height: 825px;
+  left: 38px;
+  top: 7512px;
+  z-index: 1;
+}
+.object1{
+  position: absolute;
+  width: 1682px;
+  height: 1372px;
+  left: -145px;
+  top: 332px;
 }
 .text1{
   position: relative;
@@ -84,10 +92,10 @@ background-color:black;
 }
 .object3{
   position: absolute;
-  width: 701.44px;
-  height: 295.51px;
-  left: 630.56px;
-  top: 1641.03px;
+  width: 701px;
+  height: 295px;
+  left: 630px;
+  top: 1641px;
 }
 .text2{
   position: relative;
@@ -113,24 +121,24 @@ background-color:black;
 }
 .object4{
   position: absolute;
-  width: 1414.3px;
-  height: 462.15px;
-  left: -68.25px;
-  top: 1996.77px;
+  width: 1414px;
+  height: 462px;
+  left: -68px;
+  top: 1996px;
 }
 .object5{
   position: absolute;
-  width: 1721.92px;
-  height: 1974.31px;
-  left: -158.13px;
-  top: 2268.84px;
+  width: 1721px;
+  height: 1974px;
+  left: -158px;
+  top: 2268px;
 }
 .object6{
   position: absolute;
-  width: 1247.79px;
-  height: 626.68px;
-  left: 96.1px;
-  top: 2972.72px;
+  width: 1247px;
+  height: 626px;
+  left: 96px;
+  top: 2972px;
 }
 .text6{
   position:relative;
@@ -150,17 +158,17 @@ background-color:black;
 }
 .object7{
   position: absolute;
-  width: 1390.67px;
-  height: 463.9px;
-  left: 119.66px;
-  top: 4292.51px;
+  width: 1390px;
+  height: 463px;
+  left: 119px;
+  top: 4292px;
 }
 .object8{
   position: absolute;
-  width: 1738.23px;
-  height: 605.18px;
-  left: -134.31px;
-  top: 6018.37px;
+  width: 1738px;
+  height: 605px;
+  left: -134px;
+  top: 6018px;
 }
 .object9{
   position: relative ;
@@ -168,29 +176,29 @@ background-color:black;
 }
 .object10{
   position: absolute;
-  width: 680.77px;
-  height: 469.08px;
-  left: 79.95px;
-  top: 3447.25px;
+  width: 680px;
+  height: 469px;
+  left: 79px;
+  top: 3447px;
 }
 .object11{
   position: absolute;
-  width: 663.52px;
-  height: 457.27px;
-  left: 680.38px;
-  top: 3647.36px;
+  width: 663px;
+  height: 457px;
+  left: 680px;
+  top: 3647px;
 }
 .object12{
   position: absolute;
-  width: 1782.43px;
-  height: 383.58px;
-  left: -160.81px;
-  top: 5494.1px;
+  width: 1782px;
+  height: 383px;
+  left: -160px;
+  top: 5494px;
 }
 .arch{
   font-size: 24px;
   line-height: 30px;
-  margin: 355 auto auto;
+  margin: 340 auto auto;
 }
 .a1{
   margin: auto auto auto 193;
@@ -230,32 +238,24 @@ background-color:black;
 }
 .object13{
   position: absolute;
-  width: 1094.71px;
-  height: 1047.11px;
-  left: -253.56px;
-  top: 6408.4px;
+  width: 1094px;
+  height: 1047px;
+  left: -253px;
+  top: 6408px;
 }
 .object14{
   position: absolute;
-  width: 1051.82px;
-  height: 1086.82px;
-  left: 967.52px;
-  top: 6583.04px;
+  width: 1050px;
+  height: 1085px;
+  left: 967px;
+  top: 6583px;
 }
 .text11{
   font-size: 24;
   margin: 1115 auto auto 753;
 }
-.object15{
-  position: absolute;
-  width: 1376.87px;
-  height: 825.87px;
-  left: 38.66px;
-  top: 7512.43px;
-  z-index: 0;
-}
 .journals{
-  margin: 180 auto auto;
+  margin: 100 auto auto;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
@@ -279,4 +279,7 @@ background-color:black;
 }
 .footertxt{
   margin: -63 auto;
+}
+.logo{
+  margin: auto auto auto 850 ;
 }
